@@ -1,0 +1,43 @@
+// 1
+
+// [
+//   {
+//     "type": "dog"
+//   },
+//   { "type": "cat" }
+// ]
+// // cosnt dogs = animals.filter(animal=> animal.type === "dog")
+
+// 2
+// [
+//     [
+//         {
+//             // perros
+//         }
+//     ],
+//     [
+//         {
+//             // gatos
+//         }
+//     ]
+// ]
+
+// const dogs = animals[0]
+// const cats = animals[1]
+
+// 3
+{
+  "dogs": [
+    {
+      // perros
+    }
+  ],
+  "cats": [
+    {
+      // gatos
+    }
+  ]
+}
+
+// cosnt dogs = animals.dogs
+// cosnt cats = animals.cats

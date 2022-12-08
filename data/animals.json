@@ -1,0 +1,104 @@
+{
+  "dogs": [
+    {
+      "name": "Pluto",
+      "race": "callejero",
+      "age": 4,
+      "gender": "macho",
+      "image": "./img/Pluto.jpeg",
+      "id": 1
+    },
+    {
+      "name": "Bono",
+      "race": "Border Collie",
+      "age": 3,
+      "gender": "macho",
+      "image": "./img/Bono.jpeg",
+      "id": 2
+    },
+    {
+      "name": "Nina",
+      "race": "Jack Russel",
+      "age": 6,
+      "gender": "hembra",
+      "image": "./img/Nina.webp",
+      "id": 3
+    },
+    {
+      "name": "Wilson",
+      "race": "Cocker Spaniel",
+      "age": 6,
+      "gender": "macho",
+      "image": "./img/wilson.webp",
+      "id": 4
+    }
+  ],
+  "cats": [
+    {
+      "name": "Garfield",
+      "race": "Americano",
+      "age": 7,
+      "gender": "macho",
+      "image": "./img/garfield.jpeg",
+      "id": 1
+    },
+    {
+      "name": "Felix",
+      "race": "Bombay",
+      "age": 1,
+      "gender": "macho",
+      "image": "./img/Felix.jpeg",
+      "id": 2
+    },
+    {
+      "name": "Clara",
+      "race": "Azul Ruso",
+      "age": 2,
+      "gender": "hembra",
+      "image": "./img/Clara.webp",
+      "id": 3
+    },
+    {
+      "name": "Bola de nieve",
+      "race": "Chinchilla",
+      "age": 3,
+      "gender": "hembra",
+      "image": "./img/Bola de nieve.jpeg",
+      "id": 4
+    }
+  ],
+  "bunnies": [
+    {
+      "name": "Tambor",
+      "race": "Rex",
+      "age": 2,
+      "gender": "macho",
+      "image": "./img/Tambor.jpeg",
+      "id": 1
+    },
+    {
+      "name": "Tambora",
+      "race": "Cabeza de León",
+      "age": 4,
+      "gender": "hembra",
+      "image": "./img/Tambora.jpeg",
+      "id": 2
+    },
+    {
+      "name": "Tita",
+      "race": "Belier",
+      "age": 6,
+      "gender": "hembra",
+      "image": "./img/Tita.jpeg",
+      "id": 3
+    },
+    {
+      "name": "Lina",
+      "race": "Gigante de Flandes",
+      "age": 2,
+      "gender": "hembra",
+      "image": "./img/Lina.webp",
+      "id": 4
+    }
+  ]
+}
